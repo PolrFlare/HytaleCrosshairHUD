@@ -41,3 +41,5 @@ C:\Users<you>\AppData\Roaming\Hytale\install\release\package\game\latest
 Assets\Common\UI\Crosshairs\
 
 4. Replace the PNG files directly
+
+![alt text](https://raw.githubusercontent.com/PolrFlare/HytaleCrosshairHUD/refs/heads/main/images/image1.png)
