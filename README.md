@@ -1,6 +1,9 @@
 # HytaleCrosshairHUD
 A simple Windows tool for replacing Hytale’s crosshair reticles.
 
+## Showcase
+[![Mod showcase](https://img.youtube.com/vi/T1DmtRZMh6o/0.jpg)](https://www.youtube.com/watch?v=T1DmtRZMh6o)
+
 ## What this does
 
 Hytale stores its game assets inside an `Assets.zip`.  
